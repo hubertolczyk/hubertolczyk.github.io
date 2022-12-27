@@ -14,7 +14,7 @@
   <h2>Wykształcenie</h2>
   <h3>20219-2022: wyksztłącenie średnie</h3>
   <ul>
-    <li>II LO im. K.K. Baczyńśkiego, Radomsko</li>
+    <li>II LO im. K.K. Baczyńskiego, Radomsko</li>
   </ul>
   <h2>Doświadczenie zawodowe</h2>
   <h3>Aktualnie brak </h3>
