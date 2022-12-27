@@ -8,26 +8,22 @@
   <h1>CV - Imię Nazwisko</h1>
   <h2>Informacje osobiste</h2>
   <ul>
-    <li>Imię i nazwisko: Imię Nazwisko</li>
-    <li>Data urodzenia: DD.MM.RRRR</li>
-    <li>Miejsce zamieszkania: Miasto, Kraj</li>
+    <li>Imię i nazwisko: Hubert Olczyk</li>
+    <li>Data urodzenia: 02.02.2002</li>
+    <li>Miejsce zamieszkania: Kraków, Polska</li>
   </ul>
   <h2>Wykształcenie</h2>
-  <h3>RRRR-RRRR: Tytuł studiów</h3>
+  <h3>20219-2022: wyksztłącenie średnie</h3>
   <ul>
-    <li>Nazwa uczelni, miasto</li>
+    <li>II LO im. K.K. Baczyńśkiego, Radomsko</li>
   </ul>
   <h2>Doświadczenie zawodowe</h2>
-  <h3>RRRR-RRRR: Stanowisko</h3>
-  <ul>
-    <li>Nazwa firmy</li>
-    <li> Opis wykonywanych obowiązków</li>
-  </ul>
+  <h3>Aktualnie brak </h3>
   <h2>Umiejętności</h2>
   <ul>
-    <li>Umiejętność 1</li>
-    <li>Umiejętność 2</li>
-    <li>Umiejętność 3</li>
+    <li>UProgramownaie w jezyku Python</li>
+    <li>Tworzenie stron www</li>
+    <li>Współpraca z grupą</li>
   </ul>
 </body>
 </html>
