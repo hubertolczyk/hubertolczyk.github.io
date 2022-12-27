@@ -2,7 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>CV - Hubert Olczyk </title>
+  <title>
+    CV - Hubert Olczyk 
+  </title>
 </head>
 <body>
   <h1>CV - Imię Nazwisko</h1>
