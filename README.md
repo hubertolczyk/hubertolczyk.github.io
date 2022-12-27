@@ -1,6 +1,8 @@
 <html> 
 <head>
-<title>Strona 1</title> 
+<title>
+ Strona 1
+ </title> 
 </head>
 <body> 
 <hr size =2 width =50%  align=left> 
