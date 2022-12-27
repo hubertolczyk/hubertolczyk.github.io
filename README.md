@@ -12,7 +12,7 @@
     <li>Miejsce zamieszkania: Kraków, Polska</li>
   </ul>
   <h2>Wykształcenie</h2>
-  <h3>20219-2022: wyksztłącenie średnie</h3>
+  <h3>2019-2022: wyksztłącenie średnie</h3>
   <ul>
     <li>II LO im. K.K. Baczyńskiego, Radomsko</li>
   </ul>
