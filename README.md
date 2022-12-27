@@ -1,17 +1,33 @@
-<html> 
+<!DOCTYPE html>
+<html>
 <head>
-<title>
- Strona 1
- </title> 
+  <meta charset="utf-8">
+  <title>CV - Hubert Olczyk </title>
 </head>
-<body> 
-<hr size =2 width =50%  align=left> 
-<hr size =2 width =100 >
-<hr size =2 width =30% align=right >
-<hr size =2 width =200 >
-<hr width =50% size =5 align=left  color=blue>
-<hr width =50% size =5 align=center  color = red> 
-<b><font size=3 color= #008000> To jest nasza pierwsza strona. </font> </b> <br> <br>
- <ol> <li>   Kasia  </li> <li>   Ola  </li> <li>   Jaś  </li> <li>  Staś   </li> </ol> <ul> <li>   Kasia </li> <li>   Ola  </li> <li>   Jaś  </li> <li>  Staś   </li> </ul> <table border=1> <tr> <td> wiersz 1 kolumna 1</td> <td> wiersz 1 kolumna 2</td> <td> wiersz 1 kolumna 3</td> </tr> <tr> <td> wiersz 2 kolumna 1</td> <td> wiersz 2 kolumna 2</td> <td> wiersz 2 kolumna 3</td> </tr> <tr> <td> Kasia</td> <td> Ola</td> <td> Ala</td> </tr> </table> <br><br> 
+<body>
+  <h1>CV - Imię Nazwisko</h1>
+  <h2>Informacje osobiste</h2>
+  <ul>
+    <li>Imię i nazwisko: Imię Nazwisko</li>
+    <li>Data urodzenia: DD.MM.RRRR</li>
+    <li>Miejsce zamieszkania: Miasto, Kraj</li>
+  </ul>
+  <h2>Wykształcenie</h2>
+  <h3>RRRR-RRRR: Tytuł studiów</h3>
+  <ul>
+    <li>Nazwa uczelni, miasto</li>
+  </ul>
+  <h2>Doświadczenie zawodowe</h2>
+  <h3>RRRR-RRRR: Stanowisko</h3>
+  <ul>
+    <li>Nazwa firmy</li>
+    <li> Opis wykonywanych obowiązków</li>
+  </ul>
+  <h2>Umiejętności</h2>
+  <ul>
+    <li>Umiejętność 1</li>
+    <li>Umiejętność 2</li>
+    <li>Umiejętność 3</li>
+  </ul>
 </body>
-</html> 
+</html>
