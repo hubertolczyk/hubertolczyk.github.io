@@ -1,10 +1,10 @@
+
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - gem "github-pages", group: :jekyll_plugins
-
 <html>
-<head>
+ <head>
   <meta charset="utf-8">
 </head>
 <body>
@@ -16,7 +16,7 @@ plugins:
     <li>Miejsce zamieszkania: Kraków, Polska</li>
   </ul>
   <h2>Wykształcenie</h2>
-  <h3>2019-2022: wyksztłącenie średnie</h3>
+  <h3>2019-2022: wykształcenie średnie</h3>
   <ul>
     <li>II LO im. K.K. Baczyńskiego, Radomsko</li>
   </ul>
